@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
  
-### Olá! Eu sou o Heitor Dourado 👩‍🚀
+### Olá!Sou Heitor Dourado 👩‍🚀
 
 * 📍 Natural do Rio Grande/RS
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**
