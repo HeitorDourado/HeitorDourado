@@ -1,7 +1,5 @@
 # 👨‍🚀 Heitor Dourado
 
-**`Desenvolvedor Backend`**
- 
 ### Olá!Sou Heitor Dourado 👩‍🚀
 
 * 📍 Natural do Rio Grande/RS
