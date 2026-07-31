@@ -2,7 +2,12 @@
 
 **`Desenvolvedor Backend`**
  
- Olá! Me chamo Heitor Dourado, sou do Rio Grande do Sul e graduando em Análise e Desenvolvimento de Sistemas. Tenho direcionado meus estudos e projetos para o desenvolvimento backend, fortalecendo minha base técnica por meio da prática, do aprendizado contínuo e do desenvolvimento de projetos.
+### Olá! Eu sou o Heitor Dourado 👩‍🚀
+
+* 📍 Natural do Rio Grande/RS
+* 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**
+* 🤖 Focado em desenvolvimento **Full Stack** seguindo a orientação acadêmica
+* ⚙️ Com um olhar mais atento e direcionado ao **Backend**
   
   ### 🖖 Linguagens e Tecnologias
 
