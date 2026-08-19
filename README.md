@@ -7,7 +7,7 @@
 * 🤖 Focado em desenvolvimento **Full Stack** seguindo a orientação acadêmica
 * ⚙️ Com um olhar mais atento e direcionado ao **Backend**
   
-  ### 🖖 Linguagens e Tecnologias
+### 🖖 Linguagens e Tecnologias
 
 <img 
     align="left" 
