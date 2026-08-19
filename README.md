@@ -5,7 +5,7 @@
 * 📍 Natural do Rio Grande/RS
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**
 * 🤖 Focado em desenvolvimento **Full Stack** seguindo a orientação acadêmica
-* ⚙️ Com um olhar mais atento e direcionado ao **Backend**
+* ⚙️ Com um olhar mais atento ao **Backend**
   
 ### 🖖 Linguagens e Tecnologias
 
